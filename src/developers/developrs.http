@@ -4,7 +4,7 @@ GET http://localhost:3000/developers
 ### get developer
 GET http://localhost:3000/developers/dev_wReLj8ULv63dcoWCTmm16
 
-### create develope
+### create developer
 POST http://localhost:3000/developers
 Content-Type: application/json
 
